@@ -1,0 +1,44 @@
+# Binaries
+indexer
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# Build output
+bin/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data files
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
