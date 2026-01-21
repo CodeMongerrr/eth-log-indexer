@@ -34,7 +34,6 @@ Indexes Ethereum smart contract events with:
 - ✅ **Prometheus metrics** — 10+ metrics for monitoring
 - ✅ **Graceful shutdown** — Clean data persistence before exit
 
-**Real-world tested:** Indexed 194 USDT transfer events on Ethereum mainnet.
 
 ---
 
